@@ -15,7 +15,7 @@ The **Job Portal Analytics** project provides insightful analytics for job seeke
 
 ## Setup Instructions
 1. Clone the repository:
-   git clone https://github.com/yourusername/job-portal-analytics.git
+   git clone https://github.com/Dharaniga22/job-portal-analytics.git
   
 2. Navigate to the project directory:
    cd job-portal-analytics
