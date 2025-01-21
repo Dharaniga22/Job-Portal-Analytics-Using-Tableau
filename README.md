@@ -1,4 +1,4 @@
-                                                    # Job-Portal-Analytics-Using-Tablea
+# Job-Portal-Analytics-Using-Tablea
 
 This project aims to simplify the hiring process and provide a data-driven approach for job market analysis.
 
