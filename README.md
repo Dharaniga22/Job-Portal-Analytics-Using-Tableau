@@ -2,7 +2,7 @@
 This project aims to simplify the hiring process and provide a data-driven approach for job market analysis.
 
 ## Dashboard Preview
-![Dashboard Screenshot](Dashboard 1.png)
+![Dashboard Screenshot]([Dashboard 1.png](https://github.com/Dharaniga22/Job-Portal-Analytics-Using-Tableau/blob/main/Dashboard%201.png))
 
 # Job Portal Analytics
 [![Netlify Status](https://api.netlify.com/api/v1/badges/cce94634-2385-460e-bd1e-7e38ba7fdeb6/deploy-status)](https://app.netlify.com/sites/jobportalanalytic/deploys)
